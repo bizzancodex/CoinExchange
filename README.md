@@ -6,22 +6,22 @@
 
 <br>
 
-<a href="https://bizzancoin.github.io/CoinExchange/zh/"><img src="https://img.shields.io/badge/📖_中文文档-点击进入-2563eb?style=for-the-badge" alt="中文文档"></a>
+<a href="https://bizzancodex.github.io/CoinExchange/zh/"><img src="https://img.shields.io/badge/📖_中文文档-点击进入-2563eb?style=for-the-badge" alt="中文文档"></a>
 &nbsp;
-<a href="https://bizzancoin.github.io/CoinExchange/"><img src="https://img.shields.io/badge/📖_English_Docs-Visit-0f172a?style=for-the-badge" alt="English Docs"></a>
+<a href="https://bizzancodex.github.io/CoinExchange/"><img src="https://img.shields.io/badge/📖_English_Docs-Visit-0f172a?style=for-the-badge" alt="English Docs"></a>
 &nbsp;
 <a href="https://t.me/bnbcode_channel"><img src="https://img.shields.io/badge/📢_Telegram_频道-产品动态-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 频道"></a>
 
-**👉 文档站：<https://bizzancoin.github.io/CoinExchange/>**
+**👉 文档站：<https://bizzancodex.github.io/CoinExchange/>**
 
 </div>
 
 ---
 
 > [!NOTE]
-> 本仓库托管的是 **RWA-BTX 产品与使用文档站**（编译后的静态页面），产品介绍、功能清单、运营指南、常见问题、更新日志都在文档站里，**请直接访问 <https://bizzancoin.github.io/CoinExchange/zh/> 阅读**。
+> 本仓库托管的是 **RWA-BTX 产品与使用文档站**（编译后的静态页面），产品介绍、功能清单、运营指南、常见问题、更新日志都在文档站里，**请直接访问 <https://bizzancodex.github.io/CoinExchange/zh/> 阅读**。
 >
-> 完整源码（撮合引擎、管理后台、PC / H5、原生双端 App、自建节点）随「源码版 / FDE 版」交付，详见文档站的[价格套餐](https://bizzancoin.github.io/CoinExchange/zh/intro/pricing)。
+> 完整源码（撮合引擎、管理后台、PC / H5、原生双端 App、自建节点）随「源码版 / FDE 版」交付，详见文档站的[价格套餐](https://bizzancodex.github.io/CoinExchange/zh/intro/pricing)。
 
 ## ✨ 能做什么
 
@@ -38,7 +38,7 @@
 | 🌍 多语言 | 用户端支持简中、繁中、英、日、韩、越、泰 7 种语言 |
 | 👛 BTX Wallet（内测中） | 自托管 Web3 钱包，用 USDC / USDT 在链上买卖 xStocks 代币化美股与 ETF |
 
-完整功能清单 👉 [能力总览](https://bizzancoin.github.io/CoinExchange/zh/intro/features)
+完整功能清单 👉 [能力总览](https://bizzancodex.github.io/CoinExchange/zh/intro/features)
 
 ## 📱 App 截图
 
@@ -52,18 +52,18 @@
   </tr>
 </table>
 
-更多介绍 👉 [移动端 App](https://bizzancoin.github.io/CoinExchange/zh/app/overview) ｜ [BTX Wallet](https://bizzancoin.github.io/CoinExchange/zh/app/wallet)
+更多介绍 👉 [移动端 App](https://bizzancodex.github.io/CoinExchange/zh/app/overview) ｜ [BTX Wallet](https://bizzancodex.github.io/CoinExchange/zh/app/wallet)
 
 ## 📚 文档直达
 
 | 想了解 | 链接 |
 | --- | --- |
-| 这是什么系统 | [产品介绍](https://bizzancoin.github.io/CoinExchange/zh/intro/what-is) |
-| 有哪些功能 | [能力总览](https://bizzancoin.github.io/CoinExchange/zh/intro/features) |
-| 怎么收费 | [价格套餐](https://bizzancoin.github.io/CoinExchange/zh/intro/pricing) |
-| 后台怎么用 | [运营使用指南](https://bizzancoin.github.io/CoinExchange/zh/guide/admin-login) |
-| 遇到问题 | [常见问题](https://bizzancoin.github.io/CoinExchange/zh/faq/) |
-| 最近更新了什么 | [更新日志](https://bizzancoin.github.io/CoinExchange/zh/changelog/) |
+| 这是什么系统 | [产品介绍](https://bizzancodex.github.io/CoinExchange/zh/intro/what-is) |
+| 有哪些功能 | [能力总览](https://bizzancodex.github.io/CoinExchange/zh/intro/features) |
+| 怎么收费 | [价格套餐](https://bizzancodex.github.io/CoinExchange/zh/intro/pricing) |
+| 后台怎么用 | [运营使用指南](https://bizzancodex.github.io/CoinExchange/zh/guide/admin-login) |
+| 遇到问题 | [常见问题](https://bizzancodex.github.io/CoinExchange/zh/faq/) |
+| 最近更新了什么 | [更新日志](https://bizzancodex.github.io/CoinExchange/zh/changelog/) |
 
 ## 💬 联系我们
 
@@ -73,7 +73,7 @@
 - 🌐 **官网**：<https://www.bnbcode.com>
 
 > [!WARNING]
-> 本系统仅供在中国大陆以外地区合法合规运营，**严禁在中国大陆境内运营**。购买前请阅读[免责声明](https://bizzancoin.github.io/CoinExchange/zh/legal/disclaimer)。
+> 本系统仅供在中国大陆以外地区合法合规运营，**严禁在中国大陆境内运营**。购买前请阅读[免责声明](https://bizzancodex.github.io/CoinExchange/zh/legal/disclaimer)。
 
 **关键词**：BTC 交易所 ｜ ETH 交易所 ｜ 数字货币合约交易所 ｜ 秒合约 ｜ 永续合约 ｜ 代币化美股（xStocks）｜ 外汇 / 指数 / 期货交易平台 ｜ 撮合交易引擎 ｜ 原生双端 App ｜ Java + Vue
 
@@ -83,11 +83,11 @@
 
 **RWA-BTX** is a digital asset exchange system: spot, instant swap, binary options (seconds contracts), USDT-margined perpetuals, wealth products, copy trading and traditional markets (forex, commodities, stocks, indices, HK equities) in one system — admin console, market maker portal, PC and H5 sites, plus a native dual-platform app (Android / iOS).
 
-This repository hosts the **compiled product & user documentation site**. Please read it at **<https://bizzancoin.github.io/CoinExchange/>**.
+This repository hosts the **compiled product & user documentation site**. Please read it at **<https://bizzancodex.github.io/CoinExchange/>**.
 
-- [Product Overview](https://bizzancoin.github.io/CoinExchange/intro/what-is) · [Features](https://bizzancoin.github.io/CoinExchange/intro/features) · [Pricing](https://bizzancoin.github.io/CoinExchange/intro/pricing) · [Operator Guide](https://bizzancoin.github.io/CoinExchange/guide/admin-login) · [FAQ](https://bizzancoin.github.io/CoinExchange/faq/) · [Changelog](https://bizzancoin.github.io/CoinExchange/changelog/)
+- [Product Overview](https://bizzancodex.github.io/CoinExchange/intro/what-is) · [Features](https://bizzancodex.github.io/CoinExchange/intro/features) · [Pricing](https://bizzancodex.github.io/CoinExchange/intro/pricing) · [Operator Guide](https://bizzancodex.github.io/CoinExchange/guide/admin-login) · [FAQ](https://bizzancodex.github.io/CoinExchange/faq/) · [Changelog](https://bizzancodex.github.io/CoinExchange/changelog/)
 - 📢 Product updates: Telegram channel <https://t.me/bnbcode_channel>
 - 🤖 Request a demo: [@BNBCODE_BOT](https://t.me/BNBCODE_BOT) · 🧑‍💼 Support: [@usdtvps666](https://t.me/usdtvps666) · 🌐 <https://www.bnbcode.com>
 
 > [!WARNING]
-> This system is intended solely for lawful, compliant operation outside mainland China. **Operating it within mainland China is strictly prohibited.** See the [Disclaimer](https://bizzancoin.github.io/CoinExchange/legal/disclaimer).
+> This system is intended solely for lawful, compliant operation outside mainland China. **Operating it within mainland China is strictly prohibited.** See the [Disclaimer](https://bizzancodex.github.io/CoinExchange/legal/disclaimer).
