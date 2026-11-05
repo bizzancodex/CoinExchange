@@ -1,0 +1,1 @@
+const a="/CoinExchange/images/wallet/market-stocks.png",s="/CoinExchange/images/wallet/market-crypto.png",e="/CoinExchange/images/wallet/detail.png",n="/CoinExchange/images/wallet/trades.png",t="/CoinExchange/images/wallet/profile.png",o="/CoinExchange/images/wallet/news.png";export{a as _,s as a,e as b,n as c,t as d,o as e};
